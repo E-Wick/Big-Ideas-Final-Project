@@ -14,3 +14,7 @@ Emily Wick; ekw19@pitt.edu
 2. Map of Neighborhoods: https://data.wprdc.org/dataset/neighborhoods2
 
                  This dataset contains a list + map of each neighborhood in the Pittsburgh area
+       
+3. Household Income: https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2015-miscellaneous-data/resource/b119be7e-1c70-4bbe-bf34-2056fef533ec?inner_span=True
+
+                 This dataset contains a census of the amount of people in a county making a certain range of income.
